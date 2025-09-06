@@ -1,2 +1,2 @@
-# Professional Summary
+### Professional Summary
 14+ years of experience in biomaterials R&D and leadership at Impossible Foods, Zymochem, Bolt Threads, and Imperial College, expanding on the structure-property relationships of biomacromolecules. I co-authored 5 patents and 13 scientific publications from my research in the field of plant-based meat, mycelium material, fiber spinning, analytical chemistry, chromatography, and spectroscopy.
