@@ -3,5 +3,5 @@
 ### Current Organization
 
 <p align="center">
-  <img src="https://github.com/ORGANIZATION_NAME.png" alt="Org Logo" width="120"/>
+  <img src="https://github.com/udacity.png" alt="Org Logo" width="120"/>
 </p>
